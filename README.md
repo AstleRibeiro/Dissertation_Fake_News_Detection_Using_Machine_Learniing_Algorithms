@@ -3,9 +3,9 @@
 
 ### This software is developed using Jupyter Notebook.
 
-Libraries required :- /n
-Pandas
-Numpy 
-scikit-learn
-matplotlib
+Libraries required :- 
+Pandas,
+Numpy,
+scikit-learn,
+matplotlib,
 nltk
