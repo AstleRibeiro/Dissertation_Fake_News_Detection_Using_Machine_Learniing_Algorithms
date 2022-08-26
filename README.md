@@ -1,7 +1,7 @@
 # Fake_News_Detection_Using_Machine_Learniing_Algorithms
-##This Exploratory software aims to help distinguish between real and fake news.
+## This Exploratory software aims to help distinguish between real and fake news.
 
-### This software is developed using Jupyter Notebook.
+### This software is developed using Google Colab.
 
 Libraries required :- 
 Pandas,
